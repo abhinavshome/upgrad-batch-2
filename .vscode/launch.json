@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfDigits",
+            "request": "launch",
+            "mainClass": "SumOfDigits",
+            "projectName": "batch-2_de71498a"
+        },
+        {
+            "type": "java",
+            "name": "SumOfN",
+            "request": "launch",
+            "mainClass": "SumOfN",
+            "projectName": "batch-2_de71498a"
+        },
+        {
+            "type": "java",
+            "name": "Table",
+            "request": "launch",
+            "mainClass": "Table",
+            "projectName": "batch-2_de71498a"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop",
+            "projectName": "batch-2_de71498a"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "batch-2_de71498a"
+        },
+        {
+            "type": "java",
+            "name": "Operators",
+            "request": "launch",
+            "mainClass": "Operators",
+            "projectName": "batch-2_de71498a"
+        },
+        {
+            "type": "java",
             "name": "TakingInputs",
             "request": "launch",
             "mainClass": "TakingInputs",
